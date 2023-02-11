@@ -6,7 +6,7 @@
             <title>Version 2.0.0</title>
             <description>TESTE DESCRICAO</description>
             <pubDate>Sun, 11 Dec 2023 12:00:00 +0000</pubDate>
-            <enclosure url="http://localhost:3000/app-release.apk" sparkle:version="2.0.0" sparkle:os="android" />
+            <enclosure url="http://192.168.0.109:3000/app-release.apk" sparkle:version="2.0.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
